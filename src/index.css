@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("hp.jpg"); */
+  /* border-right-style: cover; */
+}
+
+li{
+  list-style-type: none;
+}
+
+.asnbtn{
+  border: 2px solid #3287a8;
+}
+span{
+  font-size: 20px;
+}
+.qtext{
+  font-size: 18px;
+  font-family: verdana;
+}
+
+.asnbtn:hover{
+  background-color: #3287a8;
+  border: 2px solid #34deeb;
+  font-weight: bold;
+}
